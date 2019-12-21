@@ -1,0 +1,14 @@
+#myList > li {
+  list-style: none;
+}
+
+#myList > li button {
+  float: right;
+  border: none;
+  background-color: transparent;
+  font-size: large;
+}
+
+.deleted {
+  display: none;
+}
